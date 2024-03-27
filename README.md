@@ -130,7 +130,6 @@ test.
 
 Okay, now, let's say we wanted to make our grilled cheese a little more exciting
 and add a couple of cheeses, `cheddar`, `mozzarella`, and `pepper jack`.
-
 To pass the second test, **inside** the `li` with `4 slices of cheese`, add a
 **nested** unordered list that lists out the three types of cheese.
 
